@@ -1,7 +1,4 @@
-<table align="right">
- <tr><td><a href="README.md"><img height="13" src="images/usa-flag.png"> Português</a></td></tr>
- <tr><td><a href="README_pt-br.md"><img height="13" src="images/br-flag.png"> English</a></td></tr>
-</table>
+
 
 ## Bem vindos ao meu GitHub <img height="30" src="/images/wave.gif"/>
 
@@ -31,10 +28,13 @@ Já estagiou em Análise de Dados no PROCON em Itajubá-MG, já trabalhou como C
 </details>
 
 ### :computer: Tecnologias
-![Python](https://img.shields.io/badge/-Python-232F3E?style=flat-square&logo=Python)
+ 
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+
 
 <details>
 <summary>
