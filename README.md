@@ -1,7 +1,6 @@
 
 
 ## Bem vindos ao meu GitHub <img height="30" src="/images/wave.gif"/>
-
 <details>
 <summary>
   
@@ -42,8 +41,10 @@ Já estagiou em Análise de Dados no PROCON em Itajubá-MG, já trabalhou como C
   ### :bar_chart: Estatísticas GitHub
   
 </summary>
-  
-
+ 
+<p align="center">
+ <img height="170" width="500" src="https://github-readme-stats.vercel.app/api?username=leandrosantana09&show_icons=true&theme=tokyonight"/>
+</p>
 <p align="center">
  <img height="170" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=leandrosantana09&hide_border=true&theme=tokyonight"/>
 </p>
